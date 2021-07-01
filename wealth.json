@@ -1,0 +1,55 @@
+{
+  "accountBalances": [
+    {
+      "wealthfrontCash": 11853.31,
+      "schwabChecking": 4504.09,
+      "vanguardRothIRA": 19809.78,
+      "schwabRoth401k": 26141.77,
+      "briWebHSA": 3294.98,
+      "vanguardRolloverIRA": 29875.72,
+      "wealthfrontIndividual": 30249.8,
+      "wealthfrontStrategy": 0,
+      "vanguardBrokerage": 33150.81,
+      "cashApp": 6129.86,
+      "blockFi": 0,
+      "gemini": 0,
+      "coinbase": 138148.95,
+      "date": "04/26/2021",
+      "id": "0"
+    },
+    {
+      "wealthfrontCash": 4055.85,
+      "schwabChecking": 5081.22,
+      "vanguardRothIRA": 19869.73,
+      "schwabRoth401k": 28524.08,
+      "briWebHSA": 4208.17,
+      "vanguardRolloverIRA": 29966.16,
+      "wealthfrontIndividual": 32591.47,
+      "wealthfrontStrategy": 1004.92,
+      "vanguardBrokerage": 33251.16,
+      "cashApp": 8550.71,
+      "blockFi": 75124.86,
+      "gemini": 37891.76,
+      "coinbase": 11890.56,
+      "date": "05/28/2021",
+      "id": "1"
+    },
+    {
+      "wealthfrontCash": 6042.39,
+      "schwabChecking": 2216.81,
+      "vanguardRothIRA": 20392.44,
+      "schwabRoth401k": 30634.13,
+      "briWebHSA": 4293.61,
+      "vanguardRolloverIRA": 30754.71,
+      "wealthfrontIndividual": 34800.61,
+      "wealthfrontStrategy": 1011.26,
+      "vanguardBrokerage": 34126.03,
+      "cashApp": 9600.46,
+      "blockFi": 71993.72,
+      "gemini": 34485.76,
+      "coinbase": 11017.99,
+      "date": "06/30/2021",
+      "id": "2"
+    }
+  ]
+}
