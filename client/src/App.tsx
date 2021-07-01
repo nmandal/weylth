@@ -20,7 +20,7 @@ import './App.css';
 
 const App: FunctionComponent = (): React.ReactElement => {
   const [gridApi, setGridApi] = useState<GridApi>(null);
-  const [columnApi, setColumnApi] = useState<ColumnApi>(null);
+  const [_, setColumnApi] = useState<ColumnApi>(null);
 
   const [showForm, setShowForm] = useState<Boolean>(false);
   const [formData, setFormData] = useState<IAccountBalance>(null);
